@@ -2,8 +2,8 @@
 A tiny utility to graph your network ping time to a given host
 
 # install
-`git clone https://github.com/sterlingbaldwin/pingplot.git \n
-cd pingplot \n
+`git clone https://github.com/sterlingbaldwin/pingplot.git &&
+cd pingplot &&
 pip install -r requirements.txt
 `
 # usage
